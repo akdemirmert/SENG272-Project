@@ -1,5 +1,3 @@
-// GitHub: https://github.com/akdemirmert/ISO15939_Project
-
 import javax.swing.*;
 import javax.swing.table.*;
 import java.awt.*;
